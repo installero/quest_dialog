@@ -1,0 +1,18 @@
+div, p, ul, li {padding:0; margin:0; list-style:none}
+body {width:800px; margin:40px auto; font:12pt Arial}
+
+a {text-decoration:none; color:#069}
+a:hover {color:#c00}
+
+.b-dialog {float:right; width:380px; padding:5px 10px}
+.b-person, .b-variants {margin-right:400px; padding:5px 10px}
+
+.b-dialog {border-left:1px solid #e0e0e0}
+
+.b-variants li {margin-bottom:.5em}
+.b-variants a {border-bottom:1px dotted}
+.b-variants a:hover {border-bottom:none}
+
+.b-person {background:#f0f0f0; margin-bottom:10px; border-bottom:1px solid #e0e0e0; overflow:hidden}
+.b-person-image {float:left; margin-right:10px; width:80px; height:80px}
+.b-person-text {margin-left:90px}
